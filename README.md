@@ -23,6 +23,9 @@ Once all the dependencies are installed open the application in your default bro
 ## Authors
 
 Ben Shepherd https://github.com/BenjaminShepherd
+
 Claire Morawski https://github.com/clairemorawski
+
 Savanna Dubell https://github.com/savannadubell
+
 Brandon Lerner https://github.com/brandolern
