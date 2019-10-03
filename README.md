@@ -18,6 +18,12 @@ npm install
 ### Executing program
 Once all the dependencies are installed open the application in your default browser.
 
+### Deployed App
+https://benjaminshepherd.github.io/FeedMe/ 
+
+### Technology Used
+HTML5, CSS, Node.Js, jQuery, AJAX
+
 
 
 ## Authors
