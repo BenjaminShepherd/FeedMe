@@ -1,5 +1,7 @@
 # Feed Me
 
+![alt text](https://github.com/BenjaminShepherd/FeedMe/blob/master/2019-09-29%20(3).png)
+
 Help users find somewhere new to eat.
 
 ## Description
